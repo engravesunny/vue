@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[471],{9471:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var u=function(){var e=this,n=e._self._c;return n("div",[e._v(" video ")])},l=[],o={name:"video-blog",data(){return{}},mounted(){},methods:{}},r=o,d=t(3736),s=(0,d.Z)(r,u,l,!1,null,"62ed27ee",null),a=s.exports}}]);
-//# sourceMappingURL=471.a3d4c83d.js.map

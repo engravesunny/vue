@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[623],{9623:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var u=function(){var e=this,n=e._self._c;return n("div",[e._v(" archive ")])},r=[],l={name:"archive-blog",data(){return{}},mounted(){},methods:{}},a=l,c=t(3736),o=(0,c.Z)(a,u,r,!1,null,"18c47656",null),s=o.exports}}]);
-//# sourceMappingURL=623.d847d16b.js.map

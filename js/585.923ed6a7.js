@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[585],{4585:function(n,e,t){t.r(e),t.d(e,{default:function(){return s}});var u=function(){var n=this,e=n._self._c;return e("div",[n._v(" common-web ")])},o=[],r={name:"common-web",data(){return{}},mounted(){},methods:{}},l=r,c=t(3736),m=(0,c.Z)(l,u,o,!1,null,"46f79080",null),s=m.exports}}]);
-//# sourceMappingURL=585.923ed6a7.js.map

@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkmyblog"]=self["webpackChunkmyblog"]||[]).push([[572],{5572:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var u=function(){var e=this,n=e._self._c;return n("div",[e._v(" comment ")])},l=[],o={name:"comment-blog",data(){return{}},mounted(){},methods:{}},r=o,c=t(3736),m=(0,c.Z)(r,u,l,!1,null,"cf09477e",null),s=m.exports}}]);
-//# sourceMappingURL=572.bc8bba16.js.map
